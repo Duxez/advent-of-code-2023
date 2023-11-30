@@ -1,6 +1,6 @@
-# 🎄 Advent of Code 2022 🎄
+# 🎄 Advent of Code 2023 🎄
 
-This repository is a collection of my solutions for **Advent of Code 2022**, equipped together with a runner to easily execute and validate them. The solutions are all written in TypeScript.
+This repository is a collection of my solutions for **Advent of Code 2023**, equipped together with a runner to easily execute and validate them. The solutions are all written in TypeScript.
 
 ![The test runner.](https://github.com/yiliansource/advent-of-code-2022/blob/main/.github/test-runner.png)
 
